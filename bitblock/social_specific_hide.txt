@@ -274,7 +274,6 @@ tele-sport.ru##.-social
 tele-sport.ru##.-social-with-counter
 blog.domclick.ru##.A1lqP
 kaktus.kg,kaktus.media##.Article--tg-block
-mail.google.com##.Bu + .Bu.yM + .Bu.y3
 delfi.ee##.C-article-social
 delfi.ee##.C-block-type-social
 delfi.ee##.C-headline-title__share

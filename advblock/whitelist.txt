@@ -603,7 +603,6 @@ xn--112-5cd3baof9c5c.xn--p1ai#@#.wrapad
 @@||medicina.ua/js/adriver.core.*.js|$script,domain=medicina.ua
 @@||mentalmarket.io^$domain=mentalmarket.io
 @@||messenger.upservice.io^$domain=promo.upservice.com
-@@||mgid.com^$third-party,popup,domain=mail.google.com
 @@||mgrim.atcon.ru/sites/sotek/img/banner$image,domain=mgrim.atcon.ru
 @@||mgts.ru/upload/images/ban$domain=mgts.ru
 @@||militaryreview.su/engine/classes/min/index.php?$script,domain=militaryreview.su
@@ -881,7 +880,6 @@ xn--112-5cd3baof9c5c.xn--p1ai#@#.wrapad
 @@||zviazda.by^*/300x250/$image,domain=zviazda.by
 4pda.to#@#[data-revive-zoneid]
 espreso.tv,tasix.me#@#[id*="ScriptRoot"]
-mail.google.com#@#a[href^="http://mgid.com/"]
 disk.yandex.ru,disk.yandex.*#@#.content_ads
 blocksandfiles.com,milanac.ru#@#div[class*="td-a-rec-id-"]
 pets.mail.ru#@#div[data-adq-id^="adqcontainer"]
