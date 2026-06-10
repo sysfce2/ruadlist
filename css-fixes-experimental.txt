@@ -846,7 +846,7 @@ www.kinopoisk.ru##div[class*="user-bar"] > div > button ~ div:style(opacity: inh
 www.kinopoisk.ru##div[class^="styles_emptyItems__"] div:style(background-color: transparent !important)
 www.kinopoisk.ru##div[class^="styles_footerContainer__"]:style(max-width: 100% !important)
 ! ---
-kinovibe.vip##div[class^="center-box"]:style(margin-top: unset !important)
+kinovibe.cc##div[class^="center-box"]:style(margin-top: unset !important)
 ! ---
 kirovnet.ru##.bg_container:style(padding-top: 0 !important)
 kirovnet.ru##.subbody2:style(margin-top: 0 !important)
@@ -1538,7 +1538,7 @@ ya.ru,yandex.by,yandex.kz,yandex.uz##.link-bro
 ya.ru##.market-feed
 ya.ru##.reasoning-section
 ya.ru##[id^="r"][id*="it"][id*="m"][id*="-"][id*="f"]
-ya.ru##html[class*="sektlion_top"] aside + div
+ya.ru##html[class*="sektilon_top"] aside + div
 ! афиша
 afisha.yandex.ru##[style^="width:"][style*="100%;"][style*="height:"][style*="240px;"][style*="display:"][style*="block;"]:empty
 afisha.yandex.ru##[style^="width:"][style*="100%;"][style*="height:"][style*="250px;"][style*="display:"][style*="block;"]:empty
